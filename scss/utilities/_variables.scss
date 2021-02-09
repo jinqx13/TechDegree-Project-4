@@ -2,12 +2,26 @@
 /*              Variables                        */
 /* ============================================= */
 
+// Colors //
+
+$white: #fff;
+
 $lightblue: #51ddfc;
 $watermelon: #e4757a;
 $eggplant: #927bc1;
 $limegreen: #63cc82;
 $phoenix: #fd7856;
 
-// Media Query Breakpooints //
+$aquamarine: #58e1c1;
+$grey: #777;
+
+// Media Query Breakpoints //
 
 $small-br: '(max-width:768px)';
+
+// Fonts //
+
+$main-font: 'Lato', sans-serif;
+$light-font: 100px;
+$medium-font: 300px;
+$heavy-font: 700px;
