@@ -1,7 +1,7 @@
 /* ============================================= */
 /*              Media Queries                    */
 /* ============================================= */
-@media #{$small-brk} {
+@media (min-width: $small-br) {
 
     .container {
       max-width: 1400px;
@@ -100,4 +100,6 @@
     .logo {
       margin-left: initial;
       margin-right: initial;
-    }
+    } 
+
+}
